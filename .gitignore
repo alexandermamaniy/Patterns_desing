@@ -1,0 +1,18 @@
+
+# jetbrains
+.idea/
+
+# files java
+*.jar
+*.class
+
+# gradle
+build/
+*.bin
+*.lock
+.gradle/
+
+# files python
+*.pyc
+__pycache__/
+
